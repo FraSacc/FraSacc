@@ -1,4 +1,4 @@
-> ⚠️ **Warning**: Account migrated to [Fra-Saccon](https://github.com/Fra-Saccon)
+## ⚠️ Account migrated to [Fra-Saccon](https://github.com/Fra-Saccon)
 
 <!---
 FraSacc/FraSacc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
